@@ -1,0 +1,7 @@
+{
+  "name": "RE:PHONE - Premium Refurbished Smartphones",
+  "description": "Verified pre-owned smartphones with 30-point inspection, transparent battery health, and 12-month warranty in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
